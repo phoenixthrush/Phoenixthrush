@@ -14,7 +14,7 @@
 > Click on the cookie to visit my project overview [:cookie:](https://www.phoenixthrush.com).</samp>
 
 ---
-<img align="center" src="https://cdn.discordapp.com/attachments/756528641202061483/1028236039262847056/nezuko.png">
+<img align="center" src="https://www.phoenixthrush.com/assets/images/random-images/readme-cover.jpg" alt="https://wallpaperaccess.com/download/4k-aesthetic-anime-4674264">
 
 ### Public Repo:
     [Source]        https://github.com/phoenixthrush/blog
