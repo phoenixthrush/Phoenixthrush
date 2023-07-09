@@ -10,7 +10,7 @@
 > Click on the cookie to visit my project overview [:cookie:](https://www.phoenixthrush.com).</samp>
 
 ---
-<img align="center" src="https://wallpaperaccess.com/download/4k-aesthetic-anime-4674264" alt="https://wallpaperaccess.com/download/4k-aesthetic-anime-4674264">
+<img align="center" src="https://media.discordapp.net/attachments/1047250207303270510/1127702580143849502/46742641.jpg" alt="https://media.discordapp.net/attachments/1047250207303270510/1127702580143849502/46742641.jpg">
 
 ### Public Repo:
     [Source]        https://github.com/phoenixthrush/blog
