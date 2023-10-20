@@ -5,12 +5,28 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/hlddjuzm3oqpw8e52sejmi5g1)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Phoenixthrush)
 
+## <samp>About Me:<samp/>
 
-> <samp>I like to work on different projects and also love to learn new things. Therefore, Python and C are my most used languages. Also, a little HTML, CSS, JS.<br /><br />
-> Click on the cookie to visit my project overview [:cookie:](https://www.phoenixthrush.com).</samp>
+<samp>So, I've been into coding since 2016 – it all began back in 5th grade when a friend showed me this cool Matrix-style code in Batch, just three lines of magic that spat out random numbers in bright green. I was totally into it.<br><samp/>
+
+<samp>I started learning about Linux, how computers work, and even built my own PC. Then, I got my hands on a Raspberry Pi and played around with open-source stuff like music and NAS servers. Plus, I rented VPS servers to host Tor relays and got into server administration.<br><samp/>
+
+<samp>My coding journey took me through Python and web development, thanks to YouTube. Python was my go-to for algorithms and data analysis. I use Bootstrap for web development, making life easier. But I also use C for projects that require speed and need to get compiled.<br><samp/>
+
+<samp>I'm all about tech, especially cybersecurity. Kali Linux is my pentesting OS, with tools like Metasploit, SEToolkit, and BlackEye. Every day, I'm learning something new – currently, I'm diving into assembly basics and reverse engineering with Ghidra.<br><samp/>
+
+<samp>I'm all in for Team Arch Linux and backing the open-source gang. I'm into trying out new things, breaking away from proprietary software, and even did a short internship to see the ins and outs of system administration.<br><samp/>
+
+<samp>Oh, and I’ve got two cool cats at home. No siblings, but I’ve got a girlfriend who's awesome.<br><samp/>
+
+<samp>And, as for now, I'm studying practical computer science (Java Application Development, System Technology), right here in Germany. But I'm into music and games aswell. I love story-driven games like NieR Automata and Life is Strange, as well as classics like Tomb Raider and Resident Evil. Games where choices matter like "Detroit Become Human" and "Beyond Two Souls" get me going.<br><samp/>
+
+<samp>But the future? Honestly, I'm not sure which path I'm going. Could be software engineering, or maybe something totally different outside of tech.<br><samp/>
+
+<samp>Who knows, right?<br><samp/>
 
 ---
-<img align="center" src="https://media.discordapp.net/attachments/1047250207303270510/1127702580143849502/46742641.jpg" alt="https://media.discordapp.net/attachments/1047250207303270510/1127702580143849502/46742641.jpg">
+<img align="center" src="https://media.discordapp.net/attachments/1047250207303270510/1127702580143849502/46742641.jpg">
 
 ### Public Repo:
     [Source]        https://github.com/phoenixthrush/blog
