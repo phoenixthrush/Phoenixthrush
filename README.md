@@ -17,3 +17,5 @@
 <samp>As for the future, I'm not entirely sure which path I'll take. It could be software engineering, or perhaps something completely different outside of the tech realm.</samp>
 
 <samp>Who knows, right?<samp>
+
+![:name](https://count.getloli.com/get/@:phoenixthrush?theme=rule34)
