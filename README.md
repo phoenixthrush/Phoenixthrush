@@ -18,4 +18,4 @@
 
 <samp>Who knows, right?<samp>
 
-![:name](https://count.getloli.com/get/@:phoenixthrush?theme=rule34)
+![:name](https://count.phoenixthrush.com/get/@:phoenixthrush?theme=rule34)
