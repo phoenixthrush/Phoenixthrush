@@ -16,4 +16,12 @@
 
 <samp>Who knows, right?</samp>
 
-![:name](https://count.getloli.com/get/@phoenixthrush?theme=rule34)
+<br>
+
+![Wallpaper](https://media.discordapp.net/attachments/756528641202061483/1351479837088419891/Tg0VP7A.jpeg?ex=67da872e&is=67d935ae&hm=80e04e0e0a7ffbc432070cf7f5e8cc676e92f314590ca4fe1758d92ae7085dfa)
+
+<br>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@phoenixthrush?theme=rule34">
+</p>
