@@ -18,10 +18,16 @@
 
 <br>
 
-![Wallpaper](https://media.discordapp.net/attachments/756528641202061483/1351479837088419891/Tg0VP7A.jpeg?ex=67da872e&is=67d935ae&hm=80e04e0e0a7ffbc432070cf7f5e8cc676e92f314590ca4fe1758d92ae7085dfa)
+<div style="position: relative; display: inline-block; text-align: center;">
+   <img src="https://media.discordapp.net/attachments/756528641202061483/1351479837088419891/Tg0VP7A.jpeg?ex=67da872e&is=67d935ae&hm=80e04e0e0a7ffbc432070cf7f5e8cc676e92f314590ca4fe1758d92ae7085dfa" 
+      style="display: block; margin: auto; max-width: 100%;">
+   <span style="position: absolute; bottom: 10px; right: 10px; background: rgba(0, 0, 0, 0.5); color: white; padding: 5px 10px; font-size: 14px; border-radius: 5px;">
+   <a href="https://imgur.com/Tg0VP7A" style="color: white; text-decoration: none;">https://imgur.com/Tg0VP7A</a>
+   </span>
+</div>
 
 <br>
 
-<p align="center">
+<p align="right">
   <img src="https://count.getloli.com/get/@phoenixthrush?theme=rule34">
 </p>
