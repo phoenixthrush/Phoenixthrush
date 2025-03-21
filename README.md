@@ -1,5 +1,7 @@
 # <samp>About Me<samp/>
 
+[![wakatime](https://wakatime.com/badge/user/ebc8f6ad-7a1c-4f3a-ad43-cc402feab5fc.svg)](https://wakatime.com/@ebc8f6ad-7a1c-4f3a-ad43-cc402feab5fc)
+
 <samp>So, I've been interested in coding since 2016. It all started when a friend introduced me to this amazing Matrix-style code in Batch in 5th grade. It was just three lines of code that generated random numbers in bright green, and I was instantly hooked.</samp>
 
 <samp>From there, I immersed myself in learning about Linux and how computers worked, and built my own PC. Then I got my hands on a Raspberry Pi and started exploring open source projects like music and NAS servers. I also rented VPS servers to host Tor relays and got into server administration.</samp>
