@@ -1,6 +1,6 @@
 # <samp>About Me<samp/>
 
-[![wakatime](https://wakatime.com/badge/user/ebc8f6ad-7a1c-4f3a-ad43-cc402feab5fc.svg)](https://wakatime.com/@ebc8f6ad-7a1c-4f3a-ad43-cc402feab5fc)
+[![wakatime](https://wakatime.com/badge/user/ebc8f6ad-7a1c-4f3a-ad43-cc402feab5fc.svg)](https://wakatime.com/@ebc8f6ad-7a1c-4f3a-ad43-cc402feab5fc) - since Sep 14 2024
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=phoenixthrush&theme=blueberry&hide_border=true" />
